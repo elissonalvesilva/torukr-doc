@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
 export default defineConfig({
   title: 'Torukr',
@@ -131,5 +132,8 @@ export default defineConfig({
       message: 'Documentação oficial do Torukr',
       copyright: 'Copyright © 2026 Torukr'
     }
+  },
+  mermaid: {
+    theme: 'default'
   }
 })
