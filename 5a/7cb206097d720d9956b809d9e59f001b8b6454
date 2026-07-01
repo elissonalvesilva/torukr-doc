@@ -1,0 +1,14 @@
+.vitepress/config.ts
+  h_fe36846fc9fd16 2,135-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "5a7cb206097d720d9956b809d9e59f001b8b6454",
+  "prompts": {},
+  "humans": {
+    "h_fe36846fc9fd16": {
+      "author": "Elisson Silva <nossilesilva@gmail.com>"
+    }
+  }
+}
