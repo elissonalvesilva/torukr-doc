@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "e65e7c983f6f0a6255758995b59399735e0bfd33",
+  "prompts": {},
+  "humans": {
+    "h_fe36846fc9fd16": {
+      "author": "Elisson Silva <nossilesilva@gmail.com>"
+    }
+  }
+}
