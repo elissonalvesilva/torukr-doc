@@ -1,0 +1,14 @@
+.gitignore
+  h_fe36846fc9fd16 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "ba389a36be5822d885cff5e251390e0ab4deafb6",
+  "prompts": {},
+  "humans": {
+    "h_fe36846fc9fd16": {
+      "author": "Elisson Silva <nossilesilva@gmail.com>"
+    }
+  }
+}
